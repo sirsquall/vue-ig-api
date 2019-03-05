@@ -1,6 +1,6 @@
 {
   "name": "vue-ig-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Open source module for Vuejs, to be able to interact with the ImmGate API",
   "main": "dist/ig-api.js",
   "scripts": {
