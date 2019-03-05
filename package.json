@@ -1,6 +1,6 @@
 {
   "name": "vue-ig-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Open source module for Vuejs, to be able to interact with the ImmGate API",
   "main": "dist/ig-api.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "ImmGate"
   ],
   "author": "Alcindo Schwab",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "homepage": "https://github.com/sirsquall/vue-ig-api",
   "dependencies": {
     "vue-resource": "^1.5.1"
