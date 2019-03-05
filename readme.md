@@ -4,7 +4,6 @@
 [![Monthly Downloads](https://img.shields.io/npm/dm/vue-ig-api.svg)](https://www.npmjs.com/package/vue-ig-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Handy [Moment.js](http://www.momentjs.com) filters for your [Vue.js](http://vuejs.org/) project.
 
 ## Installation
 
